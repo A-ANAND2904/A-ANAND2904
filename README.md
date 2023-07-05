@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-ANAND
 - 👀 I’m interested in Developing & Learning
-- 🌱 I’m currently learning what i can
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
