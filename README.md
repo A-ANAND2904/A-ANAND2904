@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @A-ANAND
-- 👀 I’m interested in Analysis & Data Science .
-- 🌱 I’m currently learning Power Bi ,Tablue...
-- 💞️ I’m looking to collaborate on Database Projects...
+- 👋 Hi, I’m A-ANAND
+- 👀 I’m interested in  Data Analysis & Data Science
+- 🌱 I’m currently learning the tools for Data Analysis
+- 💞️ I’m open to collaborate on Database Projects
 - 📫 How to reach me @A-ANAND2904
 
 <!---
